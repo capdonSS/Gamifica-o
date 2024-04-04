@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+#share{
+    border:solid ;
+    background-color: bisque;
+}
+#underline{
+    border:solid ;
+    background-color:aquamarine;
+}
+#hashtag{
+    border:solid ;
+    background-color:blue;
+}
+#byte{
+    border:solid ;
+    background-color:pink;
+}
+#web{
+    border:solid ;
+    background-color:aqua;
+}
